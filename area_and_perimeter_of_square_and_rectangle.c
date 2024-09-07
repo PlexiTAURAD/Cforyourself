@@ -10,4 +10,5 @@ int main(void){
     scanf("%d%d", &l,&b);
     printf("\nThe area of your rectangle is: %d", l*b);
     printf("\nThe perimeter of your rectangle is: %d", 2*(l+b));
+    return 0;
 }
